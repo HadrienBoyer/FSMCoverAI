@@ -1,0 +1,19 @@
+{
+    "name": "TappyTale.PostNavCoverFSM.Editor",
+    "rootNamespace": "TappyTale.PostNavCoverFSM",
+    "references": [
+        "TappyTale.PostNavCoverFSM.Runtime",
+        "kierancoppins.post-navigation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

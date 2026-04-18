@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b5fbb25c9d2d4f6ea409bd8cb0ae757, type: 3}
+  m_Name: DemoGraph
+  m_EditorClassIdentifier: TappyTale.PostNavCoverFSM.Runtime::TappyTale.PostNavCoverFSM.Runtime.FSM.FsmGraphAsset
+  EntryNodeGuid: f570679221e349c4b2545d1c1a711597
+  Nodes:
+  - Guid: dd58a417a494413f8729d5ace61c617c
+    Title: InCover
+    Position: {x: 1000, y: 100}
+    State: {fileID: 11400000, guid: 840d9b406b08c40ab94d4770c93e38a9, type: 2}
+    Transitions: []
+  - Guid: 6f1b9acf82ed48c2899ed86c5bed221f
+    Title: MoveToCover
+    Position: {x: 712, y: -190.5}
+    State: {fileID: 11400000, guid: 5cafa28ff3c10410b90e1ec03c7392d3, type: 2}
+    Transitions:
+    - TargetNodeGuid: dd58a417a494413f8729d5ace61c617c
+      Condition: {fileID: 11400000, guid: 03c203c260d054028b6dd8a8d5d65501, type: 2}
+  - Guid: fbb5e2aef78846ed8c7a2b3e03fd6323
+    Title: SeekCover
+    Position: {x: 399, y: -13}
+    State: {fileID: 11400000, guid: 9e523f3dcc25d43e588bfceb9029693d, type: 2}
+    Transitions:
+    - TargetNodeGuid: 6f1b9acf82ed48c2899ed86c5bed221f
+      Condition: {fileID: 11400000, guid: 8a0cd2b83e29a4f8996753f271787a4c, type: 2}
+  - Guid: f570679221e349c4b2545d1c1a711597
+    Title: Idle
+    Position: {x: 41, y: 85}
+    State: {fileID: 11400000, guid: 5db1f12681ed74c9ea1325b1457675e1, type: 2}
+    Transitions:
+    - TargetNodeGuid: fbb5e2aef78846ed8c7a2b3e03fd6323
+      Condition: {fileID: 11400000, guid: 20cd0607bd800465ca0e6365a07cf0fc, type: 2}

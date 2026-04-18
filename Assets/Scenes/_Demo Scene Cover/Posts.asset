@@ -1,0 +1,601 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a823f67f7ecd4a438ac825f1b156cf4, type: 3}
+  m_Name: Posts
+  m_EditorClassIdentifier: kierancoppins.post-navigation::KieranCoppins.PostNavigation.PostData
+  posts:
+  - rid: 5495455199529271658
+  - rid: 5495455199529271659
+  - rid: 5495455199529271660
+  - rid: 5495455199529271661
+  - rid: 5495455199529271662
+  - rid: 5495455199529271663
+  - rid: 5495455199529271664
+  - rid: 5495455199529271665
+  - rid: 5495455199529271666
+  - rid: 5495455199529271667
+  - rid: 5495455199529271668
+  - rid: 5495455199529271669
+  - rid: 5495455199529271670
+  - rid: 5495455199529271671
+  - rid: 5495455199529271672
+  - rid: 5495455199529271673
+  - rid: 5495455199529271674
+  - rid: 5495455199529271675
+  - rid: 5495455199529271676
+  - rid: 5495455199529271677
+  - rid: 5495455199529271678
+  - rid: 5495455199529271679
+  - rid: 5495455199529271680
+  - rid: 5495455199529271681
+  - rid: 5495455199529271682
+  - rid: 5495455199529271683
+  - rid: 5495455199529271684
+  - rid: 5495455199529271685
+  - rid: 5495455199529271686
+  - rid: 5495455199529271687
+  - rid: 5495455199529271688
+  - rid: 5495455199529271689
+  - rid: 5495455199529271690
+  - rid: 5495455199529271691
+  - rid: 5495455199529271692
+  - rid: 5495455199529271693
+  - rid: 5495455199529271694
+  - rid: 5495455199529271695
+  - rid: 5495455199529271696
+  - rid: 5495455199529271697
+  - rid: 5495455199529271698
+  - rid: 5495455199529271699
+  - rid: 5495455199529271700
+  - rid: 5495455199529271701
+  - rid: 5495455199529271702
+  - rid: 5495455199529271703
+  - rid: 5495455199529271704
+  - rid: 5495455199529271705
+  - rid: 5495455199529271706
+  - rid: 5495455199529271707
+  - rid: 5495455199529271708
+  - rid: 5495455199529271709
+  - rid: 5495455199529271710
+  - rid: 5495455199529271711
+  - rid: 5495455199529271712
+  - rid: 5495455199529271713
+  - rid: 5495455199529271714
+  - rid: 5495455199529271715
+  - rid: 5495455199529271716
+  - rid: 5495455199529271717
+  - rid: 5495455199529271718
+  - rid: 5495455199529271719
+  - rid: 5495455199529271720
+  - rid: 5495455199529271721
+  - rid: 5495455199529271722
+  - rid: 5495455199529271723
+  - rid: 5495455199529271724
+  - rid: 5495455199529271725
+  - rid: 5495455199529271726
+  - rid: 5495455199529271727
+  - rid: 5495455199529271728
+  - rid: 5495455199529271729
+  - rid: 5495455199529271730
+  - rid: 5495455199529271731
+  - rid: 5495455199529271732
+  - rid: 5495455199529271733
+  - rid: 5495455199529271734
+  - rid: 5495455199529271735
+  - rid: 5495455199529271736
+  - rid: 5495455199529271737
+  - rid: 5495455199529271738
+  - rid: 5495455199529271739
+  - rid: 5495455199529271740
+  - rid: 5495455199529271741
+  - rid: 5495455199529271742
+  - rid: 5495455199529271743
+  - rid: 5495455199529271744
+  - rid: 5495455199529271745
+  - rid: 5495455199529271746
+  - rid: 5495455199529271747
+  - rid: 5495455199529271748
+  - rid: 5495455199529271749
+  - rid: 5495455199529271750
+  - rid: 5495455199529271751
+  - rid: 5495455199529271752
+  - rid: 5495455199529271753
+  - rid: 5495455199529271754
+  - rid: 5495455199529271755
+  - rid: 5495455199529271756
+  references:
+    version: 2
+    RefIds:
+    - rid: 5495455199529271658
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -44.88889, y: 0.083333336, z: -44.88889}
+    - rid: 5495455199529271659
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -47.11111, y: 0.083333336, z: -47.11111}
+    - rid: 5495455199529271660
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.222222, y: 0.083333336, z: -44.88889}
+    - rid: 5495455199529271661
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -28.444445, y: 0.083333336, z: -47.11111}
+    - rid: 5495455199529271662
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 28.444445, y: 0.083333336, z: -44.88889}
+    - rid: 5495455199529271663
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 14.222222, y: 0.083333336, z: -47.11111}
+    - rid: 5495455199529271664
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 47.111115, y: 0.083333336, z: -44.88889}
+    - rid: 5495455199529271665
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 44.88889, y: 0.083333336, z: -47.11111}
+    - rid: 5495455199529271666
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -44.88889, y: 0.083333336, z: -14.222222}
+    - rid: 5495455199529271667
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -47.11111, y: 0.083333336, z: -28.444445}
+    - rid: 5495455199529271668
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.222222, y: 0.083333336, z: -0.8888893}
+    - rid: 5495455199529271669
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.222222, y: 0.083333336, z: -2.2777786}
+    - rid: 5495455199529271670
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.222222, y: 0.083333336, z: -29.833334}
+    - rid: 5495455199529271671
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -28.444445, y: 0.083333336, z: -15.611112}
+    - rid: 5495455199529271672
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: -17.222223}
+    - rid: 5495455199529271673
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 2.0555556, y: 0.083333336, z: -17.222223}
+    - rid: 5495455199529271674
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: -2.444444}
+    - rid: 5495455199529271675
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: -4.3888893}
+    - rid: 5495455199529271676
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 2.0555556, y: 0.083333336, z: -1.5555547}
+    - rid: 5495455199529271677
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: -1.5555547}
+    - rid: 5495455199529271678
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 16.166666, y: 0.083333336, z: -0.7777774}
+    - rid: 5495455199529271679
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 18.222223, y: 0.083333336, z: -1.6666666}
+    - rid: 5495455199529271680
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 18.333334, y: 0.083333336, z: -2.2777786}
+    - rid: 5495455199529271681
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 18.222223, y: 0.083333336, z: -2.8888893}
+    - rid: 5495455199529271682
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 30.388891, y: 0.083333336, z: -15.722222}
+    - rid: 5495455199529271683
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 16.166666, y: 0.083333336, z: -29.944445}
+    - rid: 5495455199529271684
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 47.111115, y: 0.083333336, z: -14.222222}
+    - rid: 5495455199529271685
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 44.88889, y: 0.083333336, z: -28.444445}
+    - rid: 5495455199529271686
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -44.88889, y: 0.083333336, z: 28.444445}
+    - rid: 5495455199529271687
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -47.11111, y: 0.083333336, z: 14.222222}
+    - rid: 5495455199529271688
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -0.555556, y: 0.083333336, z: 0.33333334}
+    - rid: 5495455199529271689
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.777779, y: 0.083333336, z: 0.16666667}
+    - rid: 5495455199529271690
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -0.555556, y: 0.083333336, z: 3.2222223}
+    - rid: 5495455199529271691
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -0.555556, y: 0.083333336, z: 4.277778}
+    - rid: 5495455199529271692
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -1.2222227, y: 0.083333336, z: 3.6111114}
+    - rid: 5495455199529271693
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.888889, y: 0.083333336, z: 2.7222223}
+    - rid: 5495455199529271694
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -28.444445, y: 0.083333336, z: 16.166666}
+    - rid: 5495455199529271695
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.222222, y: 0.083333336, z: 30.388891}
+    - rid: 5495455199529271696
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -15.555556, y: 0.083333336, z: 1.0555557}
+    - rid: 5495455199529271697
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -15.444446, y: 0.083333336, z: 0.44444445}
+    - rid: 5495455199529271698
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 1.2777778, y: 0.083333336, z: 0.33333334}
+    - rid: 5495455199529271699
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 2.9444447, y: 0.083333336, z: 0.33333334}
+    - rid: 5495455199529271700
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 5.1666665, y: 0.083333336, z: 0.33333334}
+    - rid: 5495455199529271701
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 21.444445, y: 0.083333336, z: 1.0555557}
+    - rid: 5495455199529271702
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.5000005, y: 0.083333336, z: 2.5555556}
+    - rid: 5495455199529271703
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.2222223, y: 0.083333336, z: 2.4444444}
+    - rid: 5495455199529271704
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.5000005, y: 0.083333336, z: 1.3333335}
+    - rid: 5495455199529271705
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.3333335, y: 0.083333336, z: 1.8333335}
+    - rid: 5495455199529271706
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.5, y: 0.083333336, z: 0.6111111}
+    - rid: 5495455199529271707
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.2222223, y: 0.083333336, z: 0.72222227}
+    - rid: 5495455199529271708
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 2.6666667, y: 0.083333336, z: 18.333334}
+    - rid: 5495455199529271709
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 17.722223, y: 0.083333336, z: 0.16666667}
+    - rid: 5495455199529271710
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: 18.333334}
+    - rid: 5495455199529271711
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: 3.666667}
+    - rid: 5495455199529271712
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 7.777778, y: 0.083333336, z: 3.1111114}
+    - rid: 5495455199529271713
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4, y: 0.083333336, z: 3.5555556}
+    - rid: 5495455199529271714
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 5.555556, y: 0.083333336, z: 3.1111114}
+    - rid: 5495455199529271715
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 21.333334, y: 0.083333336, z: 0.44444445}
+    - rid: 5495455199529271716
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 1.388889, y: 0.083333336, z: 3.1111114}
+    - rid: 5495455199529271717
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0.11111111, y: 0.083333336, z: 6.055556}
+    - rid: 5495455199529271718
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 8.944446, y: 0.083333336, z: 4.2222223}
+    - rid: 5495455199529271719
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 8.833333, y: 0.083333336, z: 3.6666667}
+    - rid: 5495455199529271720
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 9.833333, y: 0.083333336, z: 3.5555556}
+    - rid: 5495455199529271721
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 20.555555, y: 0.083333336, z: 2.6666667}
+    - rid: 5495455199529271722
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 19.500002, y: 0.083333336, z: 3.9444447}
+    - rid: 5495455199529271723
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 16.777779, y: 0.083333336, z: 16.277779}
+    - rid: 5495455199529271724
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 28.444445, y: 0.083333336, z: 28.444445}
+    - rid: 5495455199529271725
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 47.111115, y: 0.083333336, z: 28.444445}
+    - rid: 5495455199529271726
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 44.88889, y: 0.083333336, z: 14.222222}
+    - rid: 5495455199529271727
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -44.88889, y: 0.083333336, z: 44.88889}
+    - rid: 5495455199529271728
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -47.11111, y: 0.083333336, z: 47.111115}
+    - rid: 5495455199529271729
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -14.222222, y: 0.083333336, z: 47.111115}
+    - rid: 5495455199529271730
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -28.444445, y: 0.083333336, z: 44.88889}
+    - rid: 5495455199529271731
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 28.444445, y: 0.083333336, z: 47.111115}
+    - rid: 5495455199529271732
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 14.222222, y: 0.083333336, z: 44.88889}
+    - rid: 5495455199529271733
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 47.111115, y: 0.083333336, z: 47.111115}
+    - rid: 5495455199529271734
+      type: {class: InternalOpenPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 44.88889, y: 0.083333336, z: 44.88889}
+    - rid: 5495455199529271735
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0, y: 0.083333336, z: -3.416668}
+        coverType: 1
+        coverDirection: {x: 1, y: -0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271736
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 1.0833334, y: 0.083333336, z: -4.5}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: 1}
+        canPeakLeft: 1
+        canPeakRight: 0
+    - rid: 5495455199529271737
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.8333335, y: 0.083333336, z: -4.5}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: 1}
+        canPeakLeft: 0
+        canPeakRight: 1
+    - rid: 5495455199529271738
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 5.0833335, y: 0.083333336, z: -2.333332}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: -1}
+        canPeakLeft: 1
+        canPeakRight: 0
+    - rid: 5495455199529271739
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 1.3333335, y: 0.083333336, z: -2.333332}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: -1}
+        canPeakLeft: 0
+        canPeakRight: 1
+    - rid: 5495455199529271740
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 6.166667, y: 0.083333336, z: -3.416668}
+        coverType: 1
+        coverDirection: {x: -1, y: 0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271741
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -0.83333397, y: 0.083333336, z: 0.5}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: 1}
+        canPeakLeft: 1
+        canPeakRight: 0
+    - rid: 5495455199529271742
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -0.83333397, y: 0.083333336, z: 2.6666667}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: -1}
+        canPeakLeft: 0
+        canPeakRight: 1
+    - rid: 5495455199529271743
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 0, y: 0.083333336, z: 5.0833335}
+        coverType: 1
+        coverDirection: {x: 1, y: -0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271744
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: -2, y: 0.083333336, z: 1.5833335}
+        coverType: 1
+        coverDirection: {x: 1, y: -0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271745
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 9.5, y: 0.083333336, z: 0.5}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: 1}
+        canPeakLeft: 0
+        canPeakRight: 1
+    - rid: 5495455199529271746
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 10.833334, y: 0.083333336, z: 1.5833335}
+        coverType: 1
+        coverDirection: {x: -1, y: 0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271747
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.666667, y: 0.083333336, z: 1.5833335}
+        coverType: 1
+        coverDirection: {x: 1, y: -0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271748
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.666667, y: 0.083333336, z: 1.5833335}
+        coverType: 1
+        coverDirection: {x: -1, y: 0, z: -0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271749
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.166667, y: 0.083333336, z: 1.5833335}
+        coverType: 1
+        coverDirection: {x: -1, y: 0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271750
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 4.166667, y: 0.083333336, z: 1.5833335}
+        coverType: 1
+        coverDirection: {x: 1, y: -0, z: -0}
+        canPeakLeft: 1
+        canPeakRight: 1
+    - rid: 5495455199529271751
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 9.75, y: 0.083333336, z: 2.6666667}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: -1}
+        canPeakLeft: 1
+        canPeakRight: 0
+    - rid: 5495455199529271752
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 6, y: 0.083333336, z: 2.6666667}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: -1}
+        canPeakLeft: 0
+        canPeakRight: 1
+    - rid: 5495455199529271753
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 1.0833334, y: 0.083333336, z: 4}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: 1}
+        canPeakLeft: 1
+        canPeakRight: 0
+    - rid: 5495455199529271754
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 7.0833335, y: 0.083333336, z: 4}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: 1}
+        canPeakLeft: 0
+        canPeakRight: 1
+    - rid: 5495455199529271755
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 3.0833335, y: 0.083333336, z: 2.6666667}
+        coverType: 1
+        coverDirection: {x: 0, y: 0, z: -1}
+        canPeakLeft: 1
+        canPeakRight: 0
+    - rid: 5495455199529271756
+      type: {class: InternalCoverPost, ns: KieranCoppins.PostNavigation, asm: kierancoppins.post-navigation}
+      data:
+        position: {x: 8.166667, y: 0.083333336, z: 5}
+        coverType: 1
+        coverDirection: {x: -1, y: 0, z: 0}
+        canPeakLeft: 1
+        canPeakRight: 1

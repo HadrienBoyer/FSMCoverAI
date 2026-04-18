@@ -1,0 +1,16 @@
+{
+  "name": "com.kierancoppins.post-navigation",
+  "version": "1.0.0",
+  "displayName": "Post Navigation System",
+  "description": "An AI navigation system that uses automatically generated posts for AI to navigate to",
+  "unity": "2023.2",
+  "unityRelease": "6f1",
+  "author": {
+    "name": "Kieran Coppins",
+    "url": "https://kierancoppins.com"
+  },
+  "repository": "https://github.com/KieranCoppins/Post-Navigation-System",
+  "documentationUrl": "https://github.com/KieranCoppins/Post-Navigation-System/tree/main/Documentation~",
+  "licensesUrl": "https://github.com/KieranCoppins/Post-Navigation-System/blob/main/LICENSE",
+  "_fingerprint": "bfa56fb5e196726b65d7161f5425ab40b48e770e"
+}
